@@ -9,7 +9,7 @@
 
 ## Giới thiệu
 
-Đây là ứng dụng quản lý nhân sự, quản lý lương, hợp đồng lao động... được xây dựng bằng Laravel framework.
+Đây là ứng dụng quản lý nhân sự, quản lý lương được xây dựng bằng Laravel framework.
 
 ## Hướng dẫn cài đặt sau khi clone source code từ github về:
 
@@ -29,42 +29,22 @@ Sau khi chạy xong, mở file .env lên và thay đổi DB_DATABASE=laravel th�
 - MAIL_USERNAME="tên mail dùng để gửi mật khẩu tài khoản"
 - MAIL_PASSWORD="password của mail"
 - MAIL_ENCRYPTION=tls
+
 Để truy cập vào trang đăng nhập tài khoản, nhập đường dẫn như sau: domain/private hoặc domain/login
+
 - Tài khoản admin: admin@gmail.com
 - Password: 123456
 
 
-## Laravel Sponsors
+## Tính năng
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
+- Quản lý nhân sự (Thông tin cá nhân, hồ sơ, hợp đồng, quyết định, bảo hiểm, chức vụ...).
+- Quản lý các ý kiến, đề xuất từ các nhân viên trong công ty.
+- Quản lý lương, thuế của nhân viên.
+- In nhanh hợp đồng lao động, quyết định, ý kiến...
+- Phân quyền quản lý người dùng.
+- Cấu hình thông tin công ty.
+- Giới thiệu tin tức, tuyển dụng công ty.
 
 ## Contributing
 
