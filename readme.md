@@ -45,6 +45,7 @@ Sau khi chạy xong, mở file .env lên và thay đổi DB_DATABASE=laravel th�
 - Phân quyền quản lý người dùng.
 - Cấu hình thông tin công ty.
 - Giới thiệu tin tức, tuyển dụng công ty.
+...
 
 ## Contributing
 
